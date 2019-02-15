@@ -1,2 +1,2 @@
 # Resume
-    My latest updated CV as per January 2019.
+    My latest updated CV as per Feb 2019.
