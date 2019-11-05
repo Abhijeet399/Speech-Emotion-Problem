@@ -1,4 +1,4 @@
-Speech Emotion Recognition 
+SPEECH-EMOTION-RECOGMITION
 
 Directions to run the .py file:-
 
